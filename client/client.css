@@ -1,0 +1,62 @@
+.book-cover {
+    width: 100%;
+    aspect-ratio: 10/16;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.book-title {
+    font-size: 12px;
+}
+
+.book-card:hover {
+    background-color: #eee;
+    cursor: pointer;
+}
+
+.banner {
+    background-image: linear-gradient(to right, rgba(250, 250, 250, 1), rgba(250, 250, 250, 0.4), rgba(0, 0, 0, 0.5)), url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Book-desktop-wallpaper-images-hd-wallpapers.jpg');
+    background-position: bottom;
+    background-size: cover;
+}
+
+.author {
+    font-size: 10px;
+}
+
+.issue-btn {
+    font-size: 12px;
+}
+
+.search-bar {
+    max-width: 300px !important;
+}
+
+.nav-link {
+    font-size: 13px !important;
+}
+
+.view-book-img {
+    aspect-ratio: 11/16;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.round-1 {
+    border-radius: 10px;
+}
+
+.round-2 {
+    border-radius: 15px;
+}
+
+.round-3 {
+    border-radius: 20px;
+}
+
+#navbar {
+    background-color: #A7C7E7;
+    margin: 15px 0px 0px;
+    border-radius: 15px;
+}
